@@ -1,5 +1,3 @@
-
-
 Language = 'c++'
 if Language == 'Python':  # will execute this first if false will execute elif statement
     print('Language is Python')
