@@ -1,0 +1,1 @@
+SELECT * FROM X WHERE A = 7 
